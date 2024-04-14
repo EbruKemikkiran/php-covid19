@@ -204,13 +204,13 @@
 </script>
 
 <!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PTM8NG"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PTM"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-PTM8NG');
+  gtag('config', 'G-PTM');
 </script>
 <!-- End Google Analytics -->
 
