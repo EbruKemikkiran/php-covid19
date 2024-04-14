@@ -1,4 +1,4 @@
-# Essential Stuff
+# Essential Stuffs
 
 ## Html import links
 
