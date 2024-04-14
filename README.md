@@ -113,15 +113,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Home Page
 
-![image](https://github.com/EbruKemikkiran/php-covid19/assets/104608342/aca2a84f-fa8c-4b87-b721-e1ef6ed6c687)
+![image](./assets/readmeImg/home.png)
 
-![image](https://github.com/EbruKemikkiran/php-covid19/assets/104608342/68736779-174a-48e6-9099-becdc7ba7cfb)
+![image](./assets/readmeImg/homem.png)
 
 
 ## Country Chart
 
-![image](https://github.com/EbruKemikkiran/php-covid19/assets/104608342/9753cf1d-7442-4344-b9e2-d8ec3e9d0a40)
+![image](./assets/readmeImg/chart.png)
 
 ## Order Covid-19 Test
 
-![image](https://github.com/EbruKemikkiran/php-covid19/assets/104608342/cffa77f4-9c0f-4bd3-a76c-ef891860d1ca)
+![image](./assets/readmeImg/bookt.png)
