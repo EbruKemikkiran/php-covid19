@@ -29,7 +29,7 @@ Before you start the project make sure that you create this two tables named boo
       address2 VARCHAR(500),
       postCode VARCHAR(15),
   );
-```
+
 
 - covid_data Table:
 
